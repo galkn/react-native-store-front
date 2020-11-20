@@ -1,0 +1,6 @@
+module Pods_StoreFrontExample {
+  umbrella header "Pods-StoreFrontExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

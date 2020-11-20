@@ -1,0 +1,21 @@
+{
+  "name": "react-native-store-front",
+  "version": "0.1.0",
+  "summary": "Get the country code for ios from iTunes Connect",
+  "homepage": "https://github.com/geroale/react-native-store-front#readme",
+  "license": "MIT",
+  "authors": "Alessandro Gerelli <geroale2000@gmail.com> (https://github.com/geroale)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/geroale/react-native-store-front.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}
