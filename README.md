@@ -1,6 +1,6 @@
 # react-native-store-front
 
-Get the country code for ios from iTunes Connect
+Get the country code for ios from iTunes Store
 
 ## Installation
 
