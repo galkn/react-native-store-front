@@ -34,13 +34,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/geroale/react-native-store-front",
-  "author": "Alessandro Gerelli <geroale2000@gmail.com> (https://github.com/geroale)",
+  "repository": "https://github.com/Spicy-Sparks/react-native-store-front",
+  "author": "Spicy Sparks <support@spicysparks.com> (https://github.com/Spicy-Sparks)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geroale/react-native-store-front/issues"
+    "url": "https://github.com/Spicy-Sparks/react-native-store-front/issues"
   },
-  "homepage": "https://github.com/geroale/react-native-store-front#readme",
+  "homepage": "https://github.com/Spicy-Sparks/react-native-store-front#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "@react-native-community/bob": "^0.16.2",
